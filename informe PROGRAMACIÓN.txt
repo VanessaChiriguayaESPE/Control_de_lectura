@@ -1,0 +1,7 @@
+Saludos cordiales estimado ingeniero, para poder utilizar el GitHub de una manera correcta debemos seguir los siguientes pasos que yo utilicé:
+1.- Ir al sitio oficial de GitHub y crearse una cuenta utilizando nuestro correo electrónico que vayamos a utilizar, seguidamente agregamos una contraseña segura.
+2.- Ya creada nuestra cuenta se puede dar clic en el signo + en la paste superior derecha y seleccionar "nuevo repositorio", ahí colocamos el nombre de nuestro repositorio y lo dejamos en la opción que nos dice Público, lo restante es opcional si deseamos cambiarlo, en mi caso solo quedó en esa configuración e hice clic en "crear repositorio".
+3.- Con el repositorio listo, descargué visual studio code, Python y Git.
+4.- En la configuración de Visual studio code agregué en extensiones a Python para que se pueda visualizar en el programa anterior. 
+5.- Ahora en Visual Studio Code, en la extensión de Python realicé un código sencillo con el título main.py para mostrar en pantalla "hola mundo :)". Este código lo guardo en una carpeta nueva la cual debo
+6.- 
