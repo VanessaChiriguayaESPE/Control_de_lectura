@@ -1,7 +1,12 @@
-Saludos cordiales estimado ingeniero, para poder utilizar el GitHub de una manera correcta debemos seguir los siguientes pasos que yo utilicÈ:
-1.- Ir al sitio oficial de GitHub y crearse una cuenta utilizando nuestro correo electrÛnico que vayamos a utilizar, seguidamente agregamos una contraseÒa segura.
-2.- Ya creada nuestra cuenta se puede dar clic en el signo + en la paste superior derecha y seleccionar "nuevo repositorio", ahÌ colocamos el nombre de nuestro repositorio y lo dejamos en la opciÛn que nos dice P˙blico, lo restante es opcional si deseamos cambiarlo, en mi caso solo quedÛ en esa configuraciÛn e hice clic en "crear repositorio".
-3.- Con el repositorio listo, descarguÈ visual studio code, Python y Git.
-4.- En la configuraciÛn de Visual studio code agreguÈ en extensiones a Python para que se pueda visualizar en el programa anterior. 
-5.- Ahora en Visual Studio Code, en la extensiÛn de Python realicÈ un cÛdigo sencillo con el tÌtulo main.py para mostrar en pantalla "hola mundo :)". Este cÛdigo lo guardo en una carpeta nueva la cual debo
-6.- 
+Saludos cordiales estimado ingeniero, para poder utilizar el GitHub de una manera correcta debemos seguir los siguientes pasos que yo utilic√©:
+1.- Ir al sitio oficial de GitHub y crearse una cuenta utilizando nuestro correo electr√≥nico que vayamos a utilizar, seguidamente agregamos una contrase√±a segura.
+2.- Ya creada nuestra cuenta se puede dar clic en el signo + en la paste superior derecha y seleccionar "nuevo repositorio", ah√≠ colocamos el nombre de nuestro repositorio y lo dejamos en la opci√≥n que nos dice P√∫blico, lo restante es opcional si deseamos cambiarlo, en mi caso solo qued√≥ en esa configuraci√≥n e hice clic en "crear repositorio".
+3.- Con el repositorio listo, descargu√© visual studio code, Python y Git.
+4.- En la configuraci√≥n de Visual studio code agregu√© en extensiones a Python para que se pueda visualizar en el programa anterior. 
+5.- Ahora en Visual Studio Code, en la extensi√≥n de Python realic√© un c√≥digo sencillo con el t√≠tulo main.py para mostrar en pantalla "hola mundo :)". Este c√≥digo lo guardo en una carpeta nueva la cual debo
+6.- En la carpeta nueva que he creado hago clic en open git bash here y me sale la consola y ah√≠ debo colocar la direcci√≥n de la carpeta, seguido de eso le colocamos git status.
+7.- Digito el comando "git add ." debido a que ya tengo dos archivos y as√≠ me funcion√≥. 
+8.- Como ya me aparecen que los archivos est√°n en el repositorio, agrego un nuevoo comando de git commit -m "un mensaje de confirmaci√≥n" y hago enter.
+9.- Escribo git push -u origin master y luego Enter.
+10.- Debo validar mi cuenta en github y presiono la opci√≥n autorizar.
+Ya se encuentran mis archivos subidos en el repositorio.
